@@ -1,25 +1,33 @@
-*{
+body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
 
-h1{
+h1 {
   font-weight:normal;
   font-size: 50px;
-  color: White;
 }
 
-p{
-  color: Aquamarine;
+h1, h2 {
+  color: white;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.link {
+  color: aquamarine;
   font-size: 16px;
 }
 
-h2{
+p {
   font-size: 21px;
   color: gray;
 }
 
-h3{
-  color: grey;
+.footer {
   text-align: right;
 }
